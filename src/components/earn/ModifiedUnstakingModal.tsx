@@ -97,7 +97,7 @@ export default function ModifiedStakingModal({ isOpen, onDismiss, stakingInfo }:
 
   let feeInfoUrl = ''
   if (blockchain == Blockchain.HARMONY) {
-    feeInfoUrl = 'https://docs.venomdao.org/viper/fees'
+    feeInfoUrl = 'https://docs.lootswap.org/lootswap/fees'
   }
 
   async function onWithdraw() {

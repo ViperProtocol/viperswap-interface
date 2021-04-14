@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Describe an issue in the Venomswap Interface
+about: Describe an issue in the Lootswap Interface
 title: ''
 labels: bug
 assignees: ''

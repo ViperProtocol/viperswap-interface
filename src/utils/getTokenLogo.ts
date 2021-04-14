@@ -1,15 +1,14 @@
 import { Blockchain } from '@venomswap/sdk'
 import { BLOCKCHAIN } from '../connectors'
-import viperTokenLogo from '../assets/images/viper-token-logo.png'
-import cobraTokenLogo from '../assets/images/cobra-token-logo.png'
+import lootSwapTokenLogo from '../assets/images/lootswap-token-logo.png'
 
 export default function getTokenLogo(): string {
   switch (BLOCKCHAIN) {
     case Blockchain.BINANCE_SMART_CHAIN:
-      return cobraTokenLogo
+      return lootSwapTokenLogo
     case Blockchain.HARMONY:
-      return viperTokenLogo
+      return lootSwapTokenLogo
     default:
-      return viperTokenLogo
+      return lootSwapTokenLogo
   }
 }

@@ -1,7 +1,7 @@
 {
   "background_color": "#fff",
   "display": "standalone",
-  "homepage_url": "https://cobra.exchange",
+  "homepage_url": "https://lootswap.exchange",
   "icons": [
     {
       "src": "./images/192x192_App_Icon.png",
@@ -17,8 +17,8 @@
     }
   ],
   "orientation": "portrait",
-  "name": "Cobraswap",
-  "short_name": "Cobraswap",
+  "name": "LootSwap",
+  "short_name": "LootSwap",
   "start_url": ".",
   "theme_color": "#ffad00"
 }

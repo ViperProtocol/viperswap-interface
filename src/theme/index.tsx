@@ -97,7 +97,7 @@ export function defaultColors(darkMode: boolean): Colors {
   }
 }
 
-export function viperColors(darkMode: boolean): Colors {
+export function lootSwapColors(darkMode: boolean): Colors {
   return {
     // base
     white,
@@ -284,7 +284,7 @@ export function colors(blockchain: Blockchain, darkMode: boolean): Colors {
     case Blockchain.HARMONY:
       return harmonyColors(darkMode)
     default:
-      return viperColors(darkMode)
+      return lootSwapColors(darkMode)
   }
 }
 

@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Suggest an idea for improving the UX of the Venomswap Interface
+about: Suggest an idea for improving the UX of the Lootswap Interface
 title: ''
 labels: 'improvement'
 assignees: ''

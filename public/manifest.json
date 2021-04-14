@@ -1,7 +1,7 @@
 {
   "background_color": "#fff",
   "display": "standalone",
-  "homepage_url": "https://viper.exchange",
+  "homepage_url": "https://lootswap.exchange",
   "icons": [
     {
       "src": "./images/192x192_App_Icon.png",
@@ -17,8 +17,8 @@
     }
   ],
   "orientation": "portrait",
-  "name": "Viperswap",
-  "short_name": "Viperswap",
+  "name": "Lootswap",
+  "short_name": "Lootswap",
   "start_url": ".",
   "theme_color": "#00a17e"
 }

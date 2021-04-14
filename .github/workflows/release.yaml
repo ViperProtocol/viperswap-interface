@@ -85,9 +85,9 @@ jobs:
 
             The latest release is always accessible via our alias to the Cloudflare IPFS gateway at [app.uniswap.org](https://app.uniswap.org).
 
-            You can also access the Venomswap Interface directly from an IPFS gateway.
-            The Venomswap Interface uses [`localStorage`](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) to store your settings.
-            **Beware** that other sites you access via the _same_ IPFS gateway can read and modify your settings on the Venomswap Interface without your permission.
+            You can also access the Lootswap Interface directly from an IPFS gateway.
+            The Lootswap Interface uses [`localStorage`](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) to store your settings.
+            **Beware** that other sites you access via the _same_ IPFS gateway can read and modify your settings on the Lootswap Interface without your permission.
             You can avoid this issue by using a subdomain IPFS gateway, or our alias to the latest release at [app.uniswap.org](https://app.uniswap.org).
             The preferred URLs below are safe to use to access this specific release.
 

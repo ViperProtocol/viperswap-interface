@@ -147,7 +147,7 @@ export default function ClaimModal() {
           </ModalUpper>
           <AutoColumn gap="md" style={{ padding: '1rem', paddingTop: '0' }} justify="center">
             <TYPE.subHeader fontWeight={500}>
-              As a member of the Venomswap community you may claim {govToken?.symbol} to be used for voting and
+              As a member of the Lootswap community you may claim {govToken?.symbol} to be used for voting and
               governance. <br /> <br />
               <ExternalLink href="https://uniswap.org/blog/uni">Read more about {govToken?.symbol}</ExternalLink>
             </TYPE.subHeader>

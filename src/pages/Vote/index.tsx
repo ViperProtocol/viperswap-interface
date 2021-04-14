@@ -139,7 +139,7 @@ export default function Vote() {
           <CardSection>
             <AutoColumn gap="md">
               <RowBetween>
-                <TYPE.white fontWeight={600}>Viper Governance</TYPE.white>
+                <TYPE.white fontWeight={600}>LootSwap Governance</TYPE.white>
               </RowBetween>
               <RowBetween>
                 <TYPE.white fontSize={14}>

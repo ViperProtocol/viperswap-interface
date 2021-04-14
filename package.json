@@ -1,6 +1,6 @@
 {
-  "name": "@venomswap/interface",
-  "description": "Venomswap Interface",
+  "name": "@lootswap/interface",
+  "description": "Lootswap Interface",
   "homepage": ".",
   "private": true,
   "devDependencies": {
